@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Ashish dhorajiya 
 ### Full-Stack Developer | Tech Educator | Open Source Enthusiast
 
 <!-- Animated Typing Text Header -->
