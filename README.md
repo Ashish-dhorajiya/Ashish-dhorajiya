@@ -77,7 +77,7 @@ I love breaking down hard technical concepts into structured, beginner-friendly 
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/ashish-dhorajiya-98826335b?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/yourusername" target="_blank">
